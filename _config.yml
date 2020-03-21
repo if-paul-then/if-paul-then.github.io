@@ -1,4 +1,8 @@
 theme: jekyll-theme-architect
 title: Welcome to Paul's homepage
 description: Paul's corner of the Internet
-permalink: /articles/:categories/:title:output_ext
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:name
+
