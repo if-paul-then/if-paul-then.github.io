@@ -4,5 +4,5 @@ description: Paul's corner of the Internet
 collections:
   articles:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:path
 
