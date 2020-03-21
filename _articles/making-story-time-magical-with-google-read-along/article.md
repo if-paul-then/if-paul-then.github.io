@@ -20,9 +20,11 @@ So, story time now lives up to my kid’s expectations even with me being the me
 To get this setup going you’ll need a Google speaker and a supported book.
 You can find the list of supported books [here](https://support.google.com/googlenest/answer/9164015).
 Note that it must be from the Little Golden Books series to be compatible (except for the free Ara the Star Engineer ebook).
-These books have this distinctive border: [TODO:]
-Below I’ve listed shopping links to the speaker and books:
+These books have this distinctive border:
 
+![Little Golden Books border](little-golden-book-border.png "Little Golden Books border")
+
+Below I’ve listed shopping links to the speaker and books:
 * Aladdin 
 * Alice in Wonderland
 * Ara the Star Engineer
