@@ -1,6 +1,7 @@
 theme: jekyll-theme-architect
 title: if-paul-then
 # description: My corner of the Internet
+google_analytics: UA-161598000-1
 collections:
   articles:
     output: true
