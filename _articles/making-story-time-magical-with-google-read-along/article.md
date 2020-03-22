@@ -12,15 +12,15 @@ Here is how it works:
 ## Scenario
 My kid chooses, lets say, Peter Pan for the evening’s story (like the countless evenings before).
 I get into a comfortable reading position and say to the Google speaker next
-to bed: *“Hey Google, read along with Peter Pan”*.
+to bed: *“Hey Google, read along with Peter Pan”*.  
 The speaker starts to play background music from Disney’s Peter Pan movie.
 As I then read the story, the speaker listens and changes the background
-music to be relevant to the paragraph I’m reading.
+music to be relevant to the paragraph I’m reading.  
 It also adds sound effects at the right moments.
 For example, when I read the part where Peter teaches the Darling children to fly,
 the change in background music is upbeat and you feel anything is possible.
-There is even a barking sound effect when I read about Nana the dog.
-When it is a fighting scene between Peter and Captain Hook, the music is tense and includes clashing sword sounds.
+There is even a barking sound effect when I read about Nana the dog.  
+When it is a fighting scene between Peter and Captain Hook, the music is tense and includes clashing sword sounds.  
 Another feature is that you can stop reading and talk about other things or
 skip to a specific part in the book and read-along will just pick up from that point.
 
