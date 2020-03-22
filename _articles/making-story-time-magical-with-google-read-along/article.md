@@ -1,3 +1,8 @@
+---
+layout: default
+title: Making story time magical with Google read-along
+date: 2020-03-22
+---
 As a father with a kid that still believes in the tooth fairy,
 there is an unrealistic expectation on me to make story time unforgettable.
 On a good day this includes acting, character specific voices and sound effects.
