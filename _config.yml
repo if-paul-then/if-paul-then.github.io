@@ -4,5 +4,5 @@ title: if-paul-then
 collections:
   articles:
     output: true
-    permalink: /:collection/:title
+    permalink: /:collection/:path
 
