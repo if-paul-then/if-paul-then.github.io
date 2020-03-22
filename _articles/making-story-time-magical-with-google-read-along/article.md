@@ -1,6 +1,7 @@
 ---
 title: Making story time magical with Google read-along
 date: 2020-03-22
+layout: article
 ---
 As a father with a kid that still believes in the tooth fairy,
 there is an unrealistic expectation on me to make story time unforgettable.
