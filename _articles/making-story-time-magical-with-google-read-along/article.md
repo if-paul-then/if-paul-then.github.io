@@ -36,22 +36,25 @@ These books have this distinctive border:
 ![Little Golden Books border](little-golden-book-border.png "Little Golden Books border")
 
 Below I’ve listed shopping links to the speaker and books:
-* Aladdin 
-* Alice in Wonderland
-* Ara the Star Engineer
-* Cinderella
-* Coco
-* Frozen 
-* Frozen 2
-* Jack Jack Attack
-* Lion King 
-* Mickey Mouse and his Spaceship
-* Mickey Mouse Goes Christmas ShoppingMoana
-* Mickey’s Christmas Carol
-* Mulan 
-* Peter Pan
-* Toy Story 3
-* The Three Little Pigs
+* <a href="https://store.google.com/us/product/google_nest_mini" target="_blank">Google Speaker</a>
+* Books
+  * <a href="https://www.amazon.com/Aladdin-Disney-Little-Golden-Book/dp/0736422595" target="_blank">Aladdin</a>
+  * <a href="https://www.amazon.com/Disneys-Alice-Wonderland-Little-Golden/dp/0736426701" target="_blank">Alice in Wonderland</a>
+  * <a href="" target="_blank">Ara the Star Engineer</a>
+  * <a href="https://www.amazon.com/Walt-Disneys-Cinderella-Little-Golden/dp/0736423621" target="_blank">Cinderella</a>
+  * <a href="https://www.amazon.com/Coco-Little-Golden-Disney-Pixar/dp/0736438009" target="_blank">Coco</a>
+  * <a href="https://www.amazon.com/Frozen-Little-Golden-Book-Disney/dp/0736430512" target="_blank">Frozen</a>
+  * <a href="https://www.amazon.com/Frozen-Little-Golden-Book-Disney/dp/0736440208" target="_blank">Frozen 2
+  * <a href="https://www.amazon.com/Incredibles-Jack-Jack-Attack-Little-Golden/dp/073642377X" target="_blank">Jack Jack Attack</a>
+  * <a href="https://www.amazon.com/Lion-King-Little-Golden-Book/dp/0736420959" target="_blank">Lion King</a>
+  * <a href="https://www.amazon.com/Mickey-Mouse-His-Spaceship-Disney/dp/0736436332" target="_blank">Mickey Mouse and his Spaceship</a>
+  * <a href="https://www.amazon.com/Disneys-Mickey-Christmas-Shopping-Little/dp/0736440259" target="_blank">Mickey Mouse Goes Christmas Shopping</a>
+  * <a href="https://www.amazon.com/Disneys-Mickeys-Christmas-Little-Golden/dp/0307987892" target="_blank">Mickey’s Christmas Carol</a>
+  * <a href="https://www.amazon.com/Moana-Little-Golden-Book-Disney/dp/0736436030" target="_blank">Moana</a>
+  * <a href="https://www.amazon.com/Mulan-Disney-Princess-Little-Golden/dp/0736430539" target="_blank">Mulan</a>
+  * <a href="https://www.amazon.com/Peter-Pan-Little-Golden-Book/dp/0307001040" target="_blank">Peter Pan</a>
+  * <a href="https://www.amazon.com/Story-Disney-Pixar-Little-Golden/dp/073642668X" target="_blank">Toy Story 3</a>
+  * <a href="https://www.amazon.com/Three-Little-Disney-Classic-Golden/dp/0736423125" target="_blank">The Three Little Pigs</a>
 
 ## Other Goodies
 The Google speaker has many other family goodies that you might be interested in.
