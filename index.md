@@ -5,5 +5,5 @@ This is still an experiment.  Your guess is as good as mine as to how this will 
 Here follows my long list of articles ;-)
 
 {% for article in site.articles %}
-* [{{ article.date | date_to_string }} » {{ article.title }}]({{ article.url }})
+* [*{{ article.date | date_to_string }}* » {{ article.title }}]({{ article.url }})
 {% endfor %}
