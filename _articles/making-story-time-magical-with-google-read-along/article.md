@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Making story time magical with Google read-along
 date: 2020-03-22
 ---
