@@ -29,7 +29,7 @@ So, with read-along as wingman, story time now lives up to my kid’s expectatio
 
 ## Setup
 To get this setup going you’ll need a Google speaker and a supported book.
-You can find the list of supported books [here](https://support.google.com/googlenest/answer/9164015).
+You can find the list of supported books <a href="https://support.google.com/googlenest/answer/9164015" target="_blank">here</a>.
 Note that it must be from the Little Golden Books series to be compatible (except for the free Ara the Star Engineer ebook).
 These books have this distinctive border:
 
@@ -40,7 +40,7 @@ Below I’ve listed shopping links to the speaker and books:
 * Books
   * <a href="https://www.amazon.com/Aladdin-Disney-Little-Golden-Book/dp/0736422595" target="_blank">Aladdin</a>
   * <a href="https://www.amazon.com/Disneys-Alice-Wonderland-Little-Golden/dp/0736426701" target="_blank">Alice in Wonderland</a>
-  * <a href="" target="_blank">Ara the Star Engineer</a>
+  * <a href="https://www.amazon.com/Ara-Star-Engineer-Komal-Singh/dp/1989025056" target="_blank">Ara the Star Engineer</a> *(free on Kindle)*
   * <a href="https://www.amazon.com/Walt-Disneys-Cinderella-Little-Golden/dp/0736423621" target="_blank">Cinderella</a>
   * <a href="https://www.amazon.com/Coco-Little-Golden-Disney-Pixar/dp/0736438009" target="_blank">Coco</a>
   * <a href="https://www.amazon.com/Frozen-Little-Golden-Book-Disney/dp/0736430512" target="_blank">Frozen</a>
@@ -52,10 +52,10 @@ Below I’ve listed shopping links to the speaker and books:
   * <a href="https://www.amazon.com/Disneys-Mickeys-Christmas-Little-Golden/dp/0307987892" target="_blank">Mickey’s Christmas Carol</a>
   * <a href="https://www.amazon.com/Moana-Little-Golden-Book-Disney/dp/0736436030" target="_blank">Moana</a>
   * <a href="https://www.amazon.com/Mulan-Disney-Princess-Little-Golden/dp/0736430539" target="_blank">Mulan</a>
-  * <a href="https://www.amazon.com/Peter-Pan-Little-Golden-Book/dp/0307001040" target="_blank">Peter Pan</a>
+  * <a href="https://www.amazon.com/Disneys-Disney-Classic-Little-Golden/dp/0736402381" target="_blank">Peter Pan</a>
   * <a href="https://www.amazon.com/Story-Disney-Pixar-Little-Golden/dp/073642668X" target="_blank">Toy Story 3</a>
   * <a href="https://www.amazon.com/Three-Little-Disney-Classic-Golden/dp/0736423125" target="_blank">The Three Little Pigs</a>
 
 ## Other Goodies
 The Google speaker has many other family goodies that you might be interested in.
-You can read more about it on the [product’s family page](https://store.google.com/us/product/google_home_mini_family).
+You can read more about it on the <a href="https://store.google.com/us/product/google_home_mini_family" target="_blank">product’s family page</a>.
