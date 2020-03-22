@@ -1,5 +1,6 @@
 ---
 title: Making story time magical with Google read-along
+slug:  making-story-time-magical-with-google-read-along
 date: 2020-03-22
 layout: article
 ---
