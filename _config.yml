@@ -1,9 +1,8 @@
 theme: jekyll-theme-architect
-title: Welcome to Paul's homepage
-description: Paul's corner of the Internet
+title: if-paul-then
+# description: My corner of the Internet
 collections:
   articles:
     output: true
-    layout: article
     permalink: /:collection/:path
 
