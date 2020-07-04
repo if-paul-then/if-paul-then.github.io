@@ -4,11 +4,9 @@ slug:  lessons-learnt-with-my-solar-backup-installation
 date: 2020-04-27
 layout: article
 ---
-
 Due to an increase in power interruptions where I live, I decided to bite the bullet and get a solar based backup power solution with lithium batteries and a hybrid inverter.  In the process I realised that I had a couple of misconceptions of these systems.  I’ve also realised that my misconceptions are quite common when I explained the system to friends.  With this article I hope that I can help others in clearing up some of these.
 
 TODO: TOC
-
 ##Batteries
 ###Lithium has replaced lead acid batteries
 Before doing my installation I was under the impression that lead acid batteries are still the default battery choice and also the only affordable choice.  That is not the case anymore.  Lithium batteries have come down in price thanks to mass production scale (we can thank the rise of electric vehicles for that).  Also, given all its advantages (e.g. deep discharge, many charge cycles, low weight) one should not consider lead acid batteries anymore.
@@ -63,6 +61,7 @@ TODO: picture with description
 The picture above shows that there are a couple of circuits that can be switched over to backup power.  When a power interruption happens, you can selectively switch heavy load circuits (or circuits that you don’t need) off and then switch the remaining ones to back-up power.
 
 ##Switching on certain loads only when surplus power available
+
 To maximize savings from solar power, a good strategy is to switch appliances on (where possible) only when there is surplus power from solar or batteries.
 
 TODO: picture of power graphs
