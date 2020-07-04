@@ -74,8 +74,8 @@ Good examples are the pool pump, geyser and charging the lithium batteries.
 ### Example - Pool pump
 If the pool pump is running when no surplus solar power is available, then the lacking power will be provided by the grid.  Since it is fine for the pump to run at a later time, its operation can wait till surplus solar power is available thereby maximising savings from solar.
 
-### Example - Electric geyser as solar energy store
-Since we have a gas geyser, a future optimisation strategy is to install an electric geyser before the gas geyser.  When surplus solar power is available, it can be used to heat the water in the electric geyser.  Later when hot water is needed, the gas heater needs to do less heating to get the water to the required temperature.  The electric geyser therefore becomes an energy store of solar power, similar to the batteries.
-
 ### Example - Batteries
 A typical strategy for an inverter is to only charge the batteries when surplus power is available.  This works well on a sunny day.  However, on a rainy day there is a risk that the batteries might not get fully charged by solar to have sufficient charge for backup power in case of a power interruption.  In this case the inverter’s charging strategy can be changed to charge the batteries from grid power as soon as possible if no surplus solar power is available.
+
+### Example - Electric geyser as solar energy store
+Since we have a gas geyser, a future optimisation strategy is to install an electric geyser before the gas geyser.  When surplus solar power is available, it can be used to heat the water in the electric geyser.  Later when hot water is needed, the gas heater needs to do less heating to get the water to the required temperature.  The electric geyser therefore becomes an energy store of solar power, similar to the batteries.
