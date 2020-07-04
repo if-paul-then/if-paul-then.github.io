@@ -31,7 +31,7 @@ TODO: picture of battery
 ## Cheap inverters are expensive
 The inverter that I got is a GoodWe GW5048D-ES hybrid inverter.  It was more expensive than I expected.  Especially since most common media advertisements I saw showed cheaper options.  However, from discussions with others who have done solar installations it was clear that buying cheap costs you more in the long run due to replacements.
 
-##Non-inverter connected appliances can also get solar savings
+## Non-inverter connected appliances can also get solar savings
 An appliance does not have to be connected to the inverter output to get savings from solar.  If the inverter supports pushing surplus power back into the grid (net metering), it will also push this surplus power into other appliances in the home not connected to the interver’s output.  These appliances then effectively use the surplus solar power and only the balance from the grid.
 
 TODO: picture
@@ -65,7 +65,7 @@ The picture above shows that there are a couple of circuits that can be switched
 
 To maximize savings from solar power, a good strategy is to switch appliances on (where possible) only when there is surplus power from solar or batteries.
 
-TODO: picture of power graphs
+![Solar power generation bell curve](solar-power-generation-bell-curve.png "Solar power generation bell curve")
 
 Good examples are the pool pump, geyser and charging the lithium batteries.
 
