@@ -79,3 +79,17 @@ A typical strategy for an inverter is to only charge the batteries when surplus 
 
 ### Example - Electric geyser as solar energy store
 Since we have a gas geyser, a future optimisation strategy is to install an electric geyser before the gas geyser.  When surplus solar power is available, it can be used to heat the water in the electric geyser.  Later when hot water is needed, the gas heater needs to do less heating to get the water to the required temperature.  The electric geyser therefore becomes an energy store of solar power, similar to the batteries.
+
+## Roof design that maximises solor power potential
+If you are designing a new house then your architect must factor in a roof design that optimizes solar panel placement.
+
+### Simple roof design
+You want to be able to fit as many solar panels as possible on the roof.  Maybe not initially, but you want to option to expand in future.
+The following picture shows my complicated roof design and how difficult it was to fit all the solar panels on.  Some panels also get shade in the afternoon.
+
+TODO: picture
+
+Now compare the following simpler roof design with all panels next to each other and no shadows.
+
+TODO: picture
+
