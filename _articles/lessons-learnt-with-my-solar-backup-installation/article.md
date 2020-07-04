@@ -57,7 +57,7 @@ But what if you have a circuit that powers your TV (which you do want on back-up
 
 Luckily the installer had a simpler solution by using a switch-over switch on the BD board for those mixed circuits.  By default the circuit is connected to grid power.  During a power interruption, you can make sure that no heavy load appliances are connected to the circuit and then switch the circuit over to backup power on the DB board.
 
-TODO: picture with description
+![Solar power wiring with grid-backup options](solar-power-wiring.png "Solar power wiring with grid-backup options")
 
 The picture above shows that there are a couple of circuits that can be switched over to backup power.  When a power interruption happens, you can selectively switch heavy load circuits (or circuits that you don’t need) off and then switch the remaining ones to back-up power.
 
