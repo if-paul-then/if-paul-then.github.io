@@ -92,3 +92,8 @@ Now compare the following simpler roof design with all panels next to each other
 
 TODO: picture
 
+### Roof angle
+Solar panels are usually mounted flat against the roof surface, but not every roof is angled to best capture the sun’s energy.
+A roof design should aim to maximise the angles facing the sun. In the Northern hemisphere this should be South facing and in the Southern hemisphere North facing.
+
+![Optimal roof angle](roof-angle.png "Optimal roof angle")
