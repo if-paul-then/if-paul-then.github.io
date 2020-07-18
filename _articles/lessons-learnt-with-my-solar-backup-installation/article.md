@@ -4,7 +4,7 @@ slug:  lessons-learnt-with-my-solar-backup-installation
 date: 2020-04-27
 layout: article
 ---
-Due to an increase in power interruptions where I live, I decided to bite the bullet and get a solar based backup power solution with lithium batteries and a hybrid inverter.  In the process I realised that I had a couple of misconceptions of these systems.  I’ve also realised that my misconceptions are quite common when I explained the system to friends.  With this article I hope that I can help others in clearing up some of these.
+Due to an increase in power interruptions where I live, I decided to bite the bullet and get a solar based backup power solution with lithium batteries and a hybrid inverter.  In the process I realised that I had a couple of misconceptions of these systems.  I also realised that my misconceptions are quite common when I explained the system to friends.  With this article I hope that I can help others in clearing up some of these.
 
 TODO: TOC
 
@@ -34,7 +34,7 @@ The inverter that I got is a GoodWe GW5048D-ES hybrid inverter.  It was more exp
 ## Non-inverter connected appliances can also get solar savings
 An appliance does not have to be connected to the inverter output to get savings from solar.  If the inverter supports pushing surplus power back into the grid (net metering), it will also push this surplus power into other appliances in the home not connected to the interver’s output.  These appliances then effectively use the surplus solar power and only the balance from the grid.
 
-TODO: picture - Power push into non-essentials
+![Powering push into non-essentials](1-Power-push-into-non-essentials.png "Powering push into non-essentials")
 
 ## Rate inverter power capacity for backup, not saving
 An appliance therefore only needs to be connected to the inverter output if it requires backup power during a grid power interruption, not to benefit from solar savings.  The inverter power rating can therefore be much lower since it only needs to cater for backup load.
@@ -44,7 +44,7 @@ TODO: picture
 ## Grids that don't support net-metering
 The above setup is only available if the inverter supports net metering.  However, our electricity company doesn’t allow net metering on the grid.  This turns out to also not be a problem.  The inverter is able to monitor the power coming into the home from the grid with a meter connected to the grid line coming into the DB board.  When the meter shows that power is being pushed back into the grid the inverter starts to limit the surplus power and only supplies the surplus to appliances in the home.
 
-TODO: picture - Nett flow zero
+![Nett flow zero](2-Nett-flow-zero.png "Nett flow zero")
 
 It is not possible for the inverter to always fully stop power flowing back into the grid and one can still see up to about 30W flowing back into the grid.  TODO: picture from portal showing 30W
 
@@ -57,8 +57,7 @@ But what if you have a circuit that powers your TV (which you do want on back-up
 
 Luckily the installer had a simpler solution by using a switch-over switch on the BD board for those mixed circuits.  By default the circuit is connected to grid power.  During a power interruption, you can make sure that no heavy load appliances are connected to the circuit and then switch the circuit over to backup power on the DB board.
 
-![Solar power wiring with grid-backup options](solar-power-wiring.png "Solar power wiring with grid-backup options")
-TODO: picture - Switch-over switches
+![Switch-over switches](3-Switch-over-switches.png "Switch-over switches")
 
 The picture above shows these "less-essential" circuits fronted by a switch-over switch that is by default connected to the grid.  In the event of a power interruption, one can ensure that any heavy load appliances are switched off and then the switch-over switch can be switched to back-up power.
 The picture also shows the essential circuits fronted by a switch-over switch.  This one is by default connected to back-up power since it should only have light loads connected. A power interruption will therefore not impact these connected loads.  The only reason to switch it to grid power is when the inverter needs to go down for maintenance.
