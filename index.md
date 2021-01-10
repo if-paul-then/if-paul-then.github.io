@@ -1,11 +1,11 @@
 # Welcome to my homepage
 
 {% for article in site.articles %}
-<div style="float:left; text-align: center; max-width:50mm">
+<div style="float:left; text-align: center; max-width:60mm">
   <img src="{{ article.url }}.png" width="80%" style="text-align: center">
   <p>
     <a href="{{ article.url }}">{{ article.title }}</a><br>
-    <a href="{{ article.url }}" style="font-size:smaller">{{ article.date | date_to_string }}</a>
+    <i>{{ article.date | date_to_string }}</i>
   </p>
 </div>
 {% endfor %}
