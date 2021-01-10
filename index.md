@@ -5,7 +5,7 @@
   <img src="{{ article.url }}.png" width="80%" style="text-align: center">
   <p>
     <a href="{{ article.url }}">{{ article.title }}</a><br>
-    <i>{{ article.date | date_to_string }}</i>
+    <span style="font-size:smaller; font-style: italic">{{ article.date | date_to_string }}</span>
   </p>
 </div>
 {% endfor %}
