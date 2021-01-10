@@ -1,13 +1,8 @@
-# Welcome to my Blog
-
-I've been wanting to try my hand at blogging for a very long time and
-finally found the time to get started.
-
-My interests are in the physics, IT, electronics, micro-biology and economics.
-You'll probably see it reflected in my blogs in future.
-
-Here follows my long list of articles ;-)
+# Welcome to my homepage
 
 {% for article in site.articles %}
-* [*{{ article.date | date_to_string }}* » {{ article.title }}]({{ article.url }})
+<div style="float:left; text-align: center">
+  <img src="{{ article.url }}.png" width="80%" style="text-align: center">
+  <p><a href="{{ article.url }}">{{ article.date | date_to_string }}* » {{ article.title }}</a></p>
+</div>
 {% endfor %}
