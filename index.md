@@ -1,5 +1,6 @@
 # Welcome to my homepage
 
+<p style="verticle-align:bottom">
 {% for article in site.articles %}
 <div style="float:left; text-align:center; max-width:60mm">
   <img src="{{ article.url }}.png" width="80%">
@@ -9,3 +10,4 @@
   </p>
 </div>
 {% endfor %}
+</p>
