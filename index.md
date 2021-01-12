@@ -1,8 +1,9 @@
 # Welcome to my homepage
 
-<p style="verticle-align:bottom">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-end;">
+
 {% for article in site.articles %}
-<div style="float:left; text-align:center; max-width:60mm">
+<div style="max-width:60mm; text-align:center;">
   <img src="{{ article.url }}.png" width="80%">
   <p>
     <a href="{{ article.url }}">{{ article.title }}</a><br>
@@ -10,4 +11,5 @@
   </p>
 </div>
 {% endfor %}
-</p>
+
+</div>
