@@ -29,7 +29,7 @@ So, with read-along as wingman, story time now lives up to my kid’s expectatio
 
 ## Setup
 To get this setup going you’ll need a Google speaker and a supported book.
-You can find the list of supported books <a href="https://support.google.com/googlenest/answer/9164015" target="_blank">here</a>.
+You can find the list of supported Google read-along books <a href="https://support.google.com/googlenest/answer/9164015" target="_blank">here</a>.
 Note that it must be from the Little Golden Books series to be compatible (except for the free Ara the Star Engineer ebook).
 These books have this distinctive border:
 
