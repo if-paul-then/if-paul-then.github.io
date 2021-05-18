@@ -9,7 +9,7 @@ I have used iLovePDF to decrypt password protected PDF files in gmail. Due to th
 This, and probably more because I like to tinker, I decided to create my own AWS Lambda function to decrypt PDF files using the QPDF Linux utility.  Alternative Linux utilities I considered were Ghostscript (probably a good alternative) and PDFTK (not well supported and unfriendly licensing).
 
 The following picture show the design and call sequence:
-![Solution Architecture](solution-architecture.png "Solution Architecture")
+![Solution Architecture](solution-architecture.svg "Solution Architecture")
 
 ## Create a node.js Lambda function and API
 Based on https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-blueprint.html
