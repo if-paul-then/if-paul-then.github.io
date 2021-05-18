@@ -100,7 +100,7 @@ In this section we will create a node.js program that will save the received pdf
 1. The Lambda function must still be open on the “Code” tab.
 2. Right click on the pdfDecrypt root directory in the file tree, select “New File” and name it “index.js”.
 3. Open the index.js file by double clicking it.
-4. Paste the following code into the index.js file: [index.js](index.js)
+4. Paste the following code into the index.js file: [index.js](https://github.com/if-paul-then/if-paul-then.github.io/blob/master/_articles/pdf-decryption-using-qpdf-inside-aws-lambda/index.js)
 5. Click “Deploy”
 
 For more information on how binary data is handled, see this article: https://aws.amazon.com/blogs/compute/handling-binary-data-using-amazon-api-gateway-http-apis
