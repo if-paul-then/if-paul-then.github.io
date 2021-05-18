@@ -1,10 +1,10 @@
 ---
-title: PDF decryption using QPDF inside AWS Lamda
+title: PDF decryption using QPDF inside AWS Lambda
 slug:  pdf-decryption-using-qpdf-inside-aws-lambda
 date: 2021-05-18
 layout: article
 ---
-I have used iLovePDF to decrypt password protected PDF files in gmail. Due to the typical sensitivity of these documents I have felt uncomfortable that another party has access to these documents.
+I have used [iLovePDF](https://www.ilovepdf.com) to decrypt password protected PDF files in gmail. Due to the typical sensitivity of these documents I have felt uncomfortable that another party has access to these documents.
 
 This, and probably more because I like to tinker, I decided to create my own AWS Lambda function to decrypt PDF files using the QPDF Linux utility.  Alternative Linux utilities I considered were Ghostscript (probably a good alternative) and PDFTK (not well supported and unfriendly licensing).
 
@@ -100,9 +100,7 @@ In this section we will create a node.js program that will save the received pdf
 1. The Lambda function must still be open on the “Code” tab.
 2. Right click on the pdfDecrypt root directory in the file tree, select “New File” and name it “index.js”.
 3. Open the index.js file by double clicking it.
-4. Paste the following code into the index.js file:
-
-   TODO:
+4. Paste the following code into the index.js file: [index.js](index.js)
 5. Click “Deploy”
 
 For more information on how binary data is handled, see this article: https://aws.amazon.com/blogs/compute/handling-binary-data-using-amazon-api-gateway-http-apis
