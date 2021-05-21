@@ -4,7 +4,7 @@ slug:  pdf-decryption-using-qpdf-inside-aws-lambda
 date: 2021-05-18
 layout: article
 ---
-I have used [iLovePDF](https://www.ilovepdf.com) to decrypt password protected PDF files in gmail. Due to the typical sensitivity of these documents I have felt uncomfortable that another party has access to these documents.
+I have used [iLovePDF](https://www.ilovepdf.com) to decrypt password protected PDF files in GMail using [Google Apps Script](https://github.com/if-paul-then/mishmash/tree/main/ilovepdf-googleappsscript). Due to the typical sensitivity of these documents I have felt uncomfortable that another party has access to these documents.
 
 This, and probably more because I like to tinker, I decided to create my own AWS Lambda function to decrypt PDF files using the QPDF Linux utility.  Alternative Linux utilities I considered were Ghostscript (probably a good alternative) and PDFTK (not well supported and unfriendly licensing).
 
