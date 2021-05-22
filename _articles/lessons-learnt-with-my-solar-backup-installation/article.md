@@ -6,6 +6,20 @@ layout: article
 ---
 Due to an increase in power interruptions where I live, I decided to bite the bullet and get a solar based backup power solution with lithium batteries and a hybrid inverter.  In the process I realised that I had a couple of misconceptions of these systems.  I also realised that my misconceptions are quite common when I explained the system to friends.  With this article I hope that I can help others in clearing up some of these.
 
+**Table of Contents**
+* [Batteries](#batteries)
+* [Cheap inverters are expensive](#cheap-inverters)
+* [Non-inverter connected appliances can also get solar savings](#non-inverter_connected_appliances)
+* [Rate inverter power capacity for backup, not saving](#rate-inverter-power-capacity-for-backup)
+* [Grids that don't support net-metering](#grids-that-dont-support-net-metering)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+* [](#)
+
+<a name="batteries"/>
+
 ## Batteries
 ### Lithium has replaced lead acid batteries
 Before doing my installation I was under the impression that lead acid batteries are still the default battery choice and also the only affordable choice.  That is not the case anymore.  Lithium batteries have come down in price thanks to mass production scale (we can thank the rise of electric vehicles for that).  Also, given all its advantages (e.g. deep discharge, many charge cycles, low weight) one should not consider lead acid batteries anymore.
@@ -15,23 +29,32 @@ I was also under the wrong impression that the Tesla PowerWall is the only viabl
 
 A nice surprise was that the batteries can get installed neatly into a standard 19 inch rack typically used for network and computing equipment in server rooms.  However, not all battery types will follow this rack installation standard.
 
+![Battery cabinet](battery-cabinet.png "Battery cabinet")
+
 The interface with the batteries also include more than just a plus and minus power terminal.  There are also ports for multiple batteries to communicate with each other, a port for communication with the inverter, a debugging/servicing port, state-of-charge indicators etc.
 
-![Battery cabinet](battery-cabinet.png "Battery cabinet")
 ![Batteries](batteries.png "Batteries")
+
+<a name="cheap-inverters"/>
 
 ## Cheap inverters are expensive
 The inverter that I got is a GoodWe GW5048D-ES hybrid inverter.  It was more expensive than I expected.  Especially since most common media advertisements I saw showed cheaper options.  However, from discussions with others who have done solar installations it was clear that buying cheap costs you more in the long run due to replacements.
+
+<a name="non-inverter_connected_appliances"/>
 
 ## Non-inverter connected appliances can also get solar savings
 An appliance does not have to be connected to the inverter output to get savings from solar.  If the inverter supports pushing surplus power back into the grid (net metering), it will also push this surplus power into other appliances in the home not connected to the interver’s output.  These appliances then effectively use the surplus solar power and only the balance from the grid.
 
 ![Powering push into non-essentials](1-Power-push-into-non-essentials.png "Powering push into non-essentials")
 
+<a name="rate-inverter-power-capacity-for-backup"/>
+
 ## Rate inverter power capacity for backup, not saving
 An appliance therefore only needs to be connected to the inverter output if it requires backup power during a grid power interruption, not to benefit from solar savings.  The inverter power rating can therefore be much lower since it only needs to cater for backup load.
 
 <!-- TODO: picture -->
+
+<a name="grids-that-dont-support-net-metering"/>
 
 ## Grids that don't support net-metering
 The above setup is only available if the inverter supports net metering.  However, our electricity company doesn’t allow net metering on the grid.  This turns out to also not be a problem.  The inverter is able to monitor the power coming into the home from the grid with a meter connected to the grid line coming into the DB board.  When the meter shows that power is being pushed back into the grid the inverter starts to limit the surplus power and only supplies the surplus to appliances in the home.
