@@ -84,9 +84,9 @@ The following picture shows my complicated roof design and how difficult it was 
 
 ![Complex roof design](roof-design-complex.png "Complex roof design")
 
-<!-- Now compare the following simpler roof design with all panels next to each other and no shadows.
+Now compare the following simpler roof design with all panels next to each other and no shadows.
 
-TODO: picture -->
+![Simple roof design](roof-design-simple.png "Simple roof design")
 
 ### Roof angle
 Solar panels are usually mounted flat against the roof surface, but not every roof is angled to best capture the sun’s energy.
