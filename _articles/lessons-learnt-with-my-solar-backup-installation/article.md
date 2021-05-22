@@ -13,16 +13,12 @@ Before doing my installation I was under the impression that lead acid batteries
 ### Tesla PowerWall is not the only lithium option
 I was also under the wrong impression that the Tesla PowerWall is the only viable lithium battery option on the market.  This has also changed.  There are by now many more choices available.  The lithium batteries in my installation are Pylontech US3000 with a capacity of 3.5kWh and a 10 year guarantee.  Other battery makes supported by my inverter are: BYD, GCL and LG.  Tesla has actually partnered with LG and Panasonic to produce its PowerWall and electric vehicle batteries.
 
-<!-- TODO: picture of pylon batteries up close -->
-
-### Lithium batteries come in advanced encasing
 A nice surprise was that the batteries can get installed neatly into a standard 19 inch rack typically used for network and computing equipment in server rooms.  However, not all battery types will follow this rack installation standard.
-
-<!-- TODO: picture inside cabinet -->
 
 The interface with the batteries also include more than just a plus and minus power terminal.  There are also ports for multiple batteries to communicate with each other, a port for communication with the inverter, a debugging/servicing port, state-of-charge indicators etc.
 
-<!-- TODO: picture of battery -->
+![Battery cabinet](battery-cabinet.png "Battery cabinet")
+![Batteries](batteries.png "Batteries")
 
 ## Cheap inverters are expensive
 The inverter that I got is a GoodWe GW5048D-ES hybrid inverter.  It was more expensive than I expected.  Especially since most common media advertisements I saw showed cheaper options.  However, from discussions with others who have done solar installations it was clear that buying cheap costs you more in the long run due to replacements.
@@ -84,7 +80,7 @@ The following picture shows my complicated roof design and how difficult it was 
 
 ![Complex roof design](roof-design-complex.png "Complex roof design")
 
-Now compare the following simpler roof design with all panels next to each other and no shadows.
+Now compare that with the following simpler roof design.
 
 ![Simple roof design](roof-design-simple.png "Simple roof design")
 
