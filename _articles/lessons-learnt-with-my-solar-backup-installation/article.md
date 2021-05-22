@@ -12,11 +12,9 @@ Due to an increase in power interruptions where I live, I decided to bite the bu
 * [Non-inverter connected appliances can also get solar savings](#non-inverter_connected_appliances)
 * [Rate inverter power capacity for backup, not saving](#rate-inverter-power-capacity-for-backup)
 * [Grids that don't support net-metering](#grids-that-dont-support-net-metering)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
-* [](#)
+* [Circuits with mixed essential and non-essential loads](#circuits-with-mixed-loads)
+* [Switching on loads when surplus power available](#switching-on-loads-when-surplus-power)
+* [Roof design that maximises solor power potential](#roof-designs)
 
 <a name="batteries"/>
 
@@ -65,6 +63,8 @@ It is not possible for the inverter to always fully stop power flowing back into
 
 In the event that there is a grid power interruption, the inverter will stop all surplus power flowing back into the home and grid and will only supply backup power to appliances connected to its output.  I assume this is due to safety and technical reasons.
 
+<a name="circuits-with-mixed-loads"/>
+
 ## Circuits with mixed essential and non-essential loads
 You don’t want the likes of a heater connected to your inverter output because it will drain the battery quickly due to its high power consumption (except if you’re willing to invest a lot of money for bigger batteries and inverter).
 
@@ -77,7 +77,9 @@ Luckily the installer had a simpler solution by using a switch-over switch on th
 The picture above shows these "less-essential" circuits fronted by a switch-over switch that is by default connected to the grid.  In the event of a power interruption, one can ensure that any heavy load appliances are switched off and then the switch-over switch can be switched to back-up power.
 The picture also shows the essential circuits fronted by a switch-over switch.  This one is by default connected to back-up power since it should only have light loads connected. A power interruption will therefore not impact these connected loads.  The only reason to switch it to grid power is when the inverter needs to go down for maintenance.
 
-## Switching on certain loads only when surplus power available
+<a name="switching-on-loads-when-surplus-power"/>
+
+## Switching on loads when surplus power available
 
 To maximize savings from solar power, a good strategy is to switch appliances on (where possible) only when there is surplus power from solar or batteries.
 
@@ -93,6 +95,8 @@ A typical strategy for an inverter is to only charge the batteries when surplus 
 
 ### Example - Electric geyser as solar energy store
 Since we have a gas geyser, a future optimisation strategy is to install an electric geyser before the gas geyser.  When surplus solar power is available, it can be used to heat the water in the electric geyser.  Later when hot water is needed, the gas heater needs to do less heating to get the water to the required temperature.  The electric geyser therefore becomes an energy store of solar power, similar to the batteries.
+
+<a name="roof-designs"/>
 
 ## Roof design that maximises solor power potential
 If you are designing a new house then your architect must factor in a roof design that optimizes solar panel placement.
