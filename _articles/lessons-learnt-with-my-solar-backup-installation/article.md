@@ -6,27 +6,23 @@ layout: article
 ---
 Due to an increase in power interruptions where I live, I decided to bite the bullet and get a solar based backup power solution with lithium batteries and a hybrid inverter.  In the process I realised that I had a couple of misconceptions of these systems.  I also realised that my misconceptions are quite common when I explained the system to friends.  With this article I hope that I can help others in clearing up some of these.
 
-TODO: TOC
-
 ## Batteries
 ### Lithium has replaced lead acid batteries
 Before doing my installation I was under the impression that lead acid batteries are still the default battery choice and also the only affordable choice.  That is not the case anymore.  Lithium batteries have come down in price thanks to mass production scale (we can thank the rise of electric vehicles for that).  Also, given all its advantages (e.g. deep discharge, many charge cycles, low weight) one should not consider lead acid batteries anymore.
 
-TODO: maybe say something about GigaFactory
-
 ### Tesla PowerWall is not the only lithium option
 I was also under the wrong impression that the Tesla PowerWall is the only viable lithium battery option on the market.  This has also changed.  There are by now many more choices available.  The lithium batteries in my installation are Pylontech US3000 with a capacity of 3.5kWh and a 10 year guarantee.  Other battery makes supported by my inverter are: BYD, GCL and LG.  Tesla has actually partnered with LG and Panasonic to produce its PowerWall and electric vehicle batteries.
 
-TODO: picture of pylon batteries up close
+<!-- TODO: picture of pylon batteries up close -->
 
 ### Lithium batteries come in advanced encasing
-A nice surprise was that the batteries get installed neatly into a standard 19 inch rack typically used for network and computing equipment in server rooms.  However, not all battery types will follow this rack installation standard.
+A nice surprise was that the batteries can get installed neatly into a standard 19 inch rack typically used for network and computing equipment in server rooms.  However, not all battery types will follow this rack installation standard.
 
-TODO: picture inside cabinet
+<!-- TODO: picture inside cabinet -->
 
 The interface with the batteries also include more than just a plus and minus power terminal.  There are also ports for multiple batteries to communicate with each other, a port for communication with the inverter, a debugging/servicing port, state-of-charge indicators etc.
 
-TODO: picture of battery
+<!-- TODO: picture of battery -->
 
 ## Cheap inverters are expensive
 The inverter that I got is a GoodWe GW5048D-ES hybrid inverter.  It was more expensive than I expected.  Especially since most common media advertisements I saw showed cheaper options.  However, from discussions with others who have done solar installations it was clear that buying cheap costs you more in the long run due to replacements.
@@ -39,7 +35,7 @@ An appliance does not have to be connected to the inverter output to get savings
 ## Rate inverter power capacity for backup, not saving
 An appliance therefore only needs to be connected to the inverter output if it requires backup power during a grid power interruption, not to benefit from solar savings.  The inverter power rating can therefore be much lower since it only needs to cater for backup load.
 
-TODO: picture
+<!-- TODO: picture -->
 
 ## Grids that don't support net-metering
 The above setup is only available if the inverter supports net metering.  However, our electricity company doesn’t allow net metering on the grid.  This turns out to also not be a problem.  The inverter is able to monitor the power coming into the home from the grid with a meter connected to the grid line coming into the DB board.  When the meter shows that power is being pushed back into the grid the inverter starts to limit the surplus power and only supplies the surplus to appliances in the home.
@@ -86,11 +82,11 @@ If you are designing a new house then your architect must factor in a roof desig
 You want to be able to fit as many solar panels as possible on the roof.  Maybe not initially, but you want to option to expand in future.
 The following picture shows my complicated roof design and how difficult it was to fit all the solar panels on.  Some panels also get shade in the afternoon.
 
-TODO: picture
+<!-- TODO: picture -->
 
 Now compare the following simpler roof design with all panels next to each other and no shadows.
 
-TODO: picture
+<!-- TODO: picture -->
 
 ### Roof angle
 Solar panels are usually mounted flat against the roof surface, but not every roof is angled to best capture the sun’s energy.
