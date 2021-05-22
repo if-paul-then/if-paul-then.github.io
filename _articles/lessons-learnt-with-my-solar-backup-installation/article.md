@@ -82,11 +82,11 @@ If you are designing a new house then your architect must factor in a roof desig
 You want to be able to fit as many solar panels as possible on the roof.  Maybe not initially, but you want to option to expand in future.
 The following picture shows my complicated roof design and how difficult it was to fit all the solar panels on.  Some panels also get shade in the afternoon.
 
-<!-- TODO: picture -->
+![Complex roof design](roof-design-complex.png "Complex roof design")
 
-Now compare the following simpler roof design with all panels next to each other and no shadows.
+<!-- Now compare the following simpler roof design with all panels next to each other and no shadows.
 
-<!-- TODO: picture -->
+TODO: picture -->
 
 ### Roof angle
 Solar panels are usually mounted flat against the roof surface, but not every roof is angled to best capture the sun’s energy.
