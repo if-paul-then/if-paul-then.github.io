@@ -12,7 +12,7 @@ The following picture show the design and call sequence:
 ![Solution Architecture](solution-architecture.svg "Solution Architecture")
 
 ## Create a node.js Lambda function and API
-Based on https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-blueprint.html
+Based on [this tutorial](https://docs.aws.amazon.com/lambda/latest/dg/services-apigateway-blueprint.html)
 1. Sign in to the AWS Management Console and open the AWS Lambda console.
 2. Choose Create Lambda function.
 3. Choose “Use a blueprint”.
@@ -34,9 +34,9 @@ The QPDF executable must have been compiled against the same CPU architecture an
 
 To ensure this we’ll install QPDF in an AWS EC2 instance that is x86 and AWS Linux 2 and zip it up in there.
 
-1. Create a new AWS EC2 instance by following the tutorial at: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html  
+1. Create a new AWS EC2 instance by following [this tutorial](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html).
    Ensure that the machine image (AMI) is x86 and AWS Linux 2.
-2. Connect to the EC2 instance.  For more info on connecting to EC2 instances, see https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html.
+2. Connect to the EC2 instance.  For more info on connecting to EC2 instances, [see here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html).
 3. Install QPDF by running the command:
    ```
    sudo yum install qpdf
@@ -103,7 +103,7 @@ In this section we will create a node.js program that will save the received pdf
 4. Paste the following code into the index.js file: [index.js](https://github.com/if-paul-then/if-paul-then.github.io/blob/master/_articles/pdf-decryption-using-qpdf-inside-aws-lambda/index.js)
 5. Click “Deploy”
 
-For more information on how binary data is handled, see this article: https://aws.amazon.com/blogs/compute/handling-binary-data-using-amazon-api-gateway-http-apis
+For more information on how binary data is handled, [see this article](https://aws.amazon.com/blogs/compute/handling-binary-data-using-amazon-api-gateway-http-apis).
 
 ## Test the API
 In this section we’ll test the API using the “curl” command.  Any other tool could be used as well that can call REST APIs e.g. Postman.
